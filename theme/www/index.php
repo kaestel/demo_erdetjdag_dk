@@ -39,10 +39,9 @@
 	<div id="Animated"></div>
 
 
-	<script src="//cdnjs.cloudflare.com/ajax/libs/pixi.js/4.8.1/pixi.min.js" type="text/javascript"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenLite.min.js" type="text/javascript"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/easing/EasePack.min.js" type="text/javascript"></script>
-	
+	<script src="js/pixi.min.js"></script>
+	<script src="js/TweenMax.min.js"></script>
+
 	<script src="js/lib/<?= $_SESSION["segment"] ?>/main.js"></script>
 	<script src="js/lib/shared/AnimatedBanner.js"></script>
 	<script src="js/lib/shared/AnimatedSnow.js"></script>
