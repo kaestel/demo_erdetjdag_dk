@@ -157,7 +157,7 @@ p {
 	background-size: contain;
 }
 .bar-list > a:hover {
-	background: transparent url(/img/shared/bars-hover.png) no-repeat center center;
+	background: transparent url(/img/bars-hover.png) no-repeat center center;
 	background-size: contain;
 }
 
